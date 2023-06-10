@@ -1,0 +1,93 @@
+[
+  {
+    "start": 0,
+    "end": 1.000015,
+    "seconds": 1.0000150203704834,
+    "bytes": 27105672,
+    "bits_per_second": 216842118.951037,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 1.000015,
+    "end": 2.001686,
+    "seconds": 1.0016709566116333,
+    "bytes": 35226664,
+    "bits_per_second": 281343199.7202893,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 2.001686,
+    "end": 3.00205,
+    "seconds": 1.0003639459609985,
+    "bytes": 42246112,
+    "bits_per_second": 337845938.3353031,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 3.00205,
+    "end": 4.000032,
+    "seconds": 0.9979820251464844,
+    "bytes": 43849088,
+    "bits_per_second": 351502026.24993217,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 4.000032,
+    "end": 5.004305,
+    "seconds": 1.0042730569839478,
+    "bytes": 43610288,
+    "bits_per_second": 347397853.1772724,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 5.004305,
+    "end": 6.002152,
+    "seconds": 0.997847020626068,
+    "bytes": 45807160,
+    "bits_per_second": 367247957.27713627,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 6.002152,
+    "end": 7.000043,
+    "seconds": 0.9978910088539124,
+    "bytes": 48607912,
+    "bits_per_second": 389685138.506873,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 7.000043,
+    "end": 8.000012,
+    "seconds": 0.9999690055847168,
+    "bytes": 46592296,
+    "bits_per_second": 372749921.1658534,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 8.000012,
+    "end": 9.004628,
+    "seconds": 1.0046160221099854,
+    "bytes": 44200200,
+    "bits_per_second": 351976866.9997259,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 9.004628,
+    "end": 10.001085,
+    "seconds": 0.9964569807052612,
+    "bytes": 44649080,
+    "bits_per_second": 358462680.19236535,
+    "omitted": false,
+    "sender": true
+  }
+]
+

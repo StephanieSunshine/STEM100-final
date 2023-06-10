@@ -1,0 +1,93 @@
+[
+  {
+    "start": 0,
+    "end": 1.005015,
+    "seconds": 1.0050150156021118,
+    "bytes": 20727072,
+    "bits_per_second": 164989152.8244064,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 1.005015,
+    "end": 2.000027,
+    "seconds": 0.9950119853019714,
+    "bytes": 19439400,
+    "bits_per_second": 156294800.76343346,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 2.000027,
+    "end": 3.002839,
+    "seconds": 1.0028120279312134,
+    "bytes": 13972856,
+    "bits_per_second": 111469392.95353925,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 3.002839,
+    "end": 4.001415,
+    "seconds": 0.998575985431671,
+    "bytes": 16300688,
+    "bits_per_second": 130591468.15314955,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 4.001415,
+    "end": 5.002291,
+    "seconds": 1.0008759498596191,
+    "bytes": 19155624,
+    "bits_per_second": 153110874.55093095,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 5.002291,
+    "end": 6.005018,
+    "seconds": 1.0027270317077637,
+    "bytes": 19963608,
+    "bits_per_second": 159274517.34097242,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 6.005018,
+    "end": 7.000419,
+    "seconds": 0.9954010248184204,
+    "bytes": 14012144,
+    "bits_per_second": 112615065.89311439,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 7.000419,
+    "end": 8.001216,
+    "seconds": 1.0007970333099365,
+    "bytes": 16620728,
+    "bits_per_second": 132859930.21006674,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 8.001216,
+    "end": 9.000663,
+    "seconds": 0.999446988105774,
+    "bytes": 14948080,
+    "bits_per_second": 119650808.32015482,
+    "omitted": false,
+    "sender": true
+  },
+  {
+    "start": 9.000663,
+    "end": 10.001233,
+    "seconds": 1.0005700588226318,
+    "bytes": 1619992,
+    "bits_per_second": 12952552.283295307,
+    "omitted": false,
+    "sender": true
+  }
+]
+
